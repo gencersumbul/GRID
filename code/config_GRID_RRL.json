@@ -1,0 +1,7 @@
+{
+    "model_name": "GRID-RRL",
+    "dataset": "DLRSD",
+    "gpu": 0,
+    "noise_prcnt": 50,
+    "noisy_sel_prcnt": 10
+}

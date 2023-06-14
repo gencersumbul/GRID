@@ -1,0 +1,7 @@
+{
+    "model_name": "GRID-BCE",
+    "dataset": "BEN",
+    "gpu": 0,
+    "noise_prcnt": 50,
+    "noisy_sel_prcnt": 20
+}
