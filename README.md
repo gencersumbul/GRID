@@ -1,17 +1,16 @@
 # Generative Reasoning Integrated Label Noise Robust Deep Image Representation Learning
-This repository contains code of the paper [`Generative Reasoning Integrated Label Noise Robust Deep Image Representation Learning`](https://arxiv.org/abs/2212.01261) under revision at IEEE Transactions on Image Processing. This work has been done at the [Remote Sensing Image Analysis group](https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/) by [Gencer Sumbul](http://www.user.tu-berlin.de/gencersumbul/) and [Begüm Demir](https://begumdemir.com/).
+This repository contains code of the paper [`Generative Reasoning Integrated Label Noise Robust Deep Image Representation Learning`](https://arxiv.org/abs/2212.01261) accepted to the IEEE Transactions on Image Processing. This work has been done at the [Remote Sensing Image Analysis group](https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/) by [Gencer Sumbul](http://www.user.tu-berlin.de/gencersumbul/) and [Begüm Demir](https://begumdemir.com/).
 
 If you use this code, please cite our paper given below:
 
-> G. Sumbul and B. Demіr, "Generative Reasoning Integrated Label Noise Robust Deep Image Representation Learning", IEEE Transactions on Image Processing, Under Review, 2023.
+> G. Sumbul and B. Demіr, "Generative Reasoning Integrated Label Noise Robust Deep Image Representation Learning", IEEE Transactions on Image Processing, 2023.
 
 ```
 @article{GRID,
   author={G. {Sumbul} and B. {Demіr}},
   booktitle={IEEE Transactions on Image Processing}, 
   title={Generative Reasoning Integrated Label Noise Robust Deep Image Representation Learning}, 
-  year={2023},
-  note={Under Review}
+  year={2023}
 }
 
 ```
